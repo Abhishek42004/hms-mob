@@ -5,6 +5,7 @@
     "background_color": "#ffffff",
     "start_url": "/hms/",
     "theme_color": "#007bff",
+    "orientation": "landscape", // Add this line
     "icons": [
         {
             "src": "./logo-128.png",
